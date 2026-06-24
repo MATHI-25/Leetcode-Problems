@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
