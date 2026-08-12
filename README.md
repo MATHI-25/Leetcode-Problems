@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0204-count-primes) |
 ## Two Pointers
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
