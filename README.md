@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0137-single-number-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0204-count-primes) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
