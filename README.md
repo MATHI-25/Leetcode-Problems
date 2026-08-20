@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0274-h-index) |
 | [0645-set-mismatch](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0645-set-mismatch) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0148-sort-list) |
 ## Database
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0973-k-closest-points-to-origin](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Counting Sort
 |  |
@@ -207,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
