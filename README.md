@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1051-height-checker) |
 ## String
 |  |
 | ------- |
@@ -172,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
