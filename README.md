@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0493-reverse-pairs](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0643-maximum-average-subarray-i](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Counting Sort
 |  |
@@ -215,4 +218,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
