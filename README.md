@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [1122-relative-sort-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -202,10 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0274-h-index) |
 | [1051-height-checker](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 ## Geometry
 |  |
 | ------- |
@@ -255,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0164-maximum-gap) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
