@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0164-maximum-gap) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 ## Geometry
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 ## Matrix
 |  |
