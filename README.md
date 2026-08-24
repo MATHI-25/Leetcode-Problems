@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1051-height-checker) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [0875-koko-eating-bananas](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 ## Stack
 |  |
 | ------- |
