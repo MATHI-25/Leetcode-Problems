@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0643-maximum-average-subarray-i](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0459-repeated-substring-pattern](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
@@ -339,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 ## Manacher
 |  |
@@ -348,4 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
