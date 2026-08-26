@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 | [2000-reverse-prefix-of-word](https://github.com/MATHI-25/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
@@ -319,20 +320,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 ## Manacher
 |  |
 | ------- |
