@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0796-rotate-string) |
+| [1044-longest-duplicate-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/MATHI-25/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
+| [1044-longest-duplicate-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Stack
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0643-maximum-average-subarray-i](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1044-longest-duplicate-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0459-repeated-substring-pattern](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0686-repeated-string-match) |
+| [1044-longest-duplicate-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0686-repeated-string-match) |
+| [1044-longest-duplicate-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Manacher
 |  |
 | ------- |
@@ -358,8 +363,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [1044-longest-duplicate-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [1044-longest-duplicate-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
+## Suffix Tree
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
