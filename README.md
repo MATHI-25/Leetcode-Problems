@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0202-happy-number) |
