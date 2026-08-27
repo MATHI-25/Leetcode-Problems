@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -417,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
