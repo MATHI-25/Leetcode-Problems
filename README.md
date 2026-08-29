@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/MATHI-25/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Database
 |  |
 | ------- |
