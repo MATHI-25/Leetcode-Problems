@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Interactive
 |  |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -511,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
