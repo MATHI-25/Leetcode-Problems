@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0312-burst-balloons) |
 | [0324-wiggle-sort-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0493-reverse-pairs) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0198-house-robber) |
+| [0312-burst-balloons](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0312-burst-balloons) |
 | [0337-house-robber-iii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0337-house-robber-iii) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1668-maximum-repeating-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1668-maximum-repeating-substring) |
