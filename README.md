@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
+| [0516-longest-palindromic-subsequence](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0686-repeated-string-match) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1668-maximum-repeating-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1668-maximum-repeating-substring) |
 ## Monotonic Stack
