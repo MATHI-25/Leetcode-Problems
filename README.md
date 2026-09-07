@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0778-swim-in-rising-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0493-reverse-pairs) |
+| [0778-swim-in-rising-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1044-longest-duplicate-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Stack
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0778-swim-in-rising-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Interactive
 |  |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0684-redundant-connection](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -569,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
@@ -585,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 ## Graph Theory
 |  |
 | ------- |
@@ -598,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 ## Memoization
 |  |
 | ------- |
@@ -647,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0062-unique-paths) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
