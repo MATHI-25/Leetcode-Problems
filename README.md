@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0494-target-sum) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0743-network-delay-time) |
 ## Binary Tree
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -611,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
