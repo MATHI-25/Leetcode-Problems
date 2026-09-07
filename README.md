@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1051-height-checker](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1408-string-matching-in-an-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Interactive
 |  |
 | ------- |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0743-network-delay-time) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
