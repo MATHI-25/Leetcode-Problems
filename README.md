@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0779-k-th-symbol-in-grammar](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 ## Backtracking
 |  |
 | ------- |
