@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0518-coin-change-ii) |
+| [0622-design-circular-queue](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Database
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -659,4 +662,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
