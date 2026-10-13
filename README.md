@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [1044-longest-duplicate-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
