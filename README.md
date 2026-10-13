@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [1044-longest-duplicate-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Divide and Conquer
