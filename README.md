@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0769-max-chunks-to-make-sorted](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0778-swim-in-rising-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0806-number-of-lines-to-write-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0645-set-mismatch](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0769-max-chunks-to-make-sorted](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0680-valid-palindrome-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0969-pancake-sorting](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0969-pancake-sorting) |
 ## Binary Search
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/MATHI-25/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Linked List
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 ## Design
 |  |
 | ------- |
