@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0875-koko-eating-bananas](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
+| [0969-pancake-sorting](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [0969-pancake-sorting](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0969-pancake-sorting) |
 | [0977-squares-of-a-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/MATHI-25/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0645-set-mismatch](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0969-pancake-sorting](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1051-height-checker) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0324-wiggle-sort-ii) |
 | [0680-valid-palindrome-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0969-pancake-sorting](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0969-pancake-sorting) |
 ## Binary Search
 |  |
 | ------- |
