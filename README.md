@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0494-target-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Algorithm X
 |  |
 | ------- |
@@ -730,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Minimax
 |  |
 | ------- |
