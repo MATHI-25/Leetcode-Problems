@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
