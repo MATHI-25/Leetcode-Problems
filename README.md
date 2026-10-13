@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0053-maximum-subarray) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0090-subsets-ii) |
