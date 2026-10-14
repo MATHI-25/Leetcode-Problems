@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0047-permutations-ii) |
@@ -619,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0052-n-queens-ii) |
 ## Depth-First Search
@@ -773,4 +778,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
