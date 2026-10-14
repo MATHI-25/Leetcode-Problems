@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Shortest Path
 |  |
 | ------- |
@@ -762,4 +765,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MATHI-25/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/MATHI-25/Leetcode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
